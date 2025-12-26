@@ -1,6 +1,3 @@
-# Aircraft_Classification_MobileNetV2
-Aircraft classification using transfer learning with MobileNetV2, including data augmentation, model evaluation, and custom image prediction.
-
 # ✈️ Aircraft Classification with MobileNetV2
 
 This project focuses on aircraft image classification using **transfer learning** with the **MobileNetV2** architecture.  
